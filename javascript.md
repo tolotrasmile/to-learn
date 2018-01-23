@@ -1,5 +1,5 @@
-#JavaScript
-##EcmaScript 2015
+# JavaScript
+## EcmaScript 2015
 + Arrow functions
 + Template literal
 + Shorthand object literal
