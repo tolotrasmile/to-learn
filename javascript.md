@@ -5,7 +5,8 @@
 + Shorthand object literal
 + Object functions
 + Destructuring
++ Spread operator
++ Rest operator
 + Classes and modules
 + Promises
-+ Rest Operator
 + Dynamic object literal and computed property
