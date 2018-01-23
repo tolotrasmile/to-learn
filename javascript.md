@@ -4,8 +4,8 @@
 + Template literal
 + Shorthand object literal
 + Object functions
++ Destructuring
 + Classes and modules
 + Promises
 + Rest Operator
 + Dynamic object literal and computed property
-
